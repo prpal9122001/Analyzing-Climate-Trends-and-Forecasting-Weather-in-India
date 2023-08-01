@@ -2,12 +2,12 @@
 
 The purpose of this Python project is to analyze historical weather data for India from 1901 to 2017 and develop a predictive model to forecast future temperatures. The project aims to gain insights into weather patterns, identify trends in yearly temperatures,examine the potential impact of global warming on climate and give out maximimum,minimum and mean temperature also to forecast future temperature. Various data manipulation and visualization techniques, as well as the KMeans clustering algorithm and Decision Tree Regression were used to achieve it.
 
-#Introduction
+## Introduction
 Weather forecasting plays a vital role in understanding climate trends and making informed decisions in various sectors such as agriculture, tourism, and disaster management. By analyzing historical weather data and developing a predictive model, we can gain insights into weather patterns, identify seasonal variations, and assess the impact of climate change.
 
 ![Screen Shot 2023-08-02 at 12 42 08 AM](https://github.com/prpal9122001/Analyzing-Climate-Trends-and-Forecasting-Weather-in-India/assets/72788936/fc417773-a4e2-4864-8da6-f74716aaced3)
 
-#Methodology:
+## Methodology:
 
 Data Collection: We obtained historical weather data for India from 1901 to 2017 in CSV format.
 
@@ -21,7 +21,7 @@ Decision Tree Regression: We implemented Decision Tree Regression to develop a p
 
 ![Screen Shot 2023-08-02 at 12 26 44 AM](https://github.com/prpal9122001/Analyzing-Climate-Trends-and-Forecasting-Weather-in-India/assets/72788936/85e4a5cb-2d92-4ed3-8327-4e51e6876004)
 
-#nsights Derived from Data Analysis
+## Insights Derived from Data Analysis
 
 Yearly Mean Temperatures: We observed a clear positive trend in yearly mean temperatures, indicating a possible impact of global warming.
 
@@ -33,7 +33,8 @@ Temperature Clusters: Despite four distinct seasons in India, we observed three 
 
 ![Screen Shot 2023-08-02 at 12 34 22 AM](https://github.com/prpal9122001/Analyzing-Climate-Trends-and-Forecasting-Weather-in-India/assets/72788936/96524763-8937-40f0-a96c-90db135e3c49)
 
-#Machine learning algorithms used
+## Machine learning algorithms used
+
 **1. K-Means Clustering**
 K-Means is an unsupervised machine learning algorithm used for clustering data. Its main objective is to divide data into 'k' distinct clusters, where 'k' is a user-defined number. The algorithm assigns each data point to the cluster whose centroid is closest to it. K-Means is widely used in data analysis and pattern recognition tasks.
 
@@ -48,7 +49,8 @@ In this project, Decision Tree was used for the following purposes:
 
 Forecasting Temperature: The Decision Tree algorithm was utilized to predict the temperature for specific years. It was trained on historical temperature data from previous years, and then used to forecast the mean, maximum, and minimum temperatures for user-inputted years. This allowed for temperature predictions beyond the available historical data.
 
-#Conclusion
+## Conclusion
+
 In conclusion, this Python project provides valuable insights into historical weather data for India, helping us understand climate patterns and trends. By utilizing data manipulation, visualization, and machine learning techniques, we successfully developed a **predictive model to forecast future temperatures**. The analysis confirms the impact of global warming and highlights the urgency of climate action. Additionally, identifying temperature clusters allows us to study temperature variations in different regions. 
 
 
