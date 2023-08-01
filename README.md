@@ -4,7 +4,8 @@ The purpose of this Python project is to analyze historical weather data for Ind
 
 #Introduction
 Weather forecasting plays a vital role in understanding climate trends and making informed decisions in various sectors such as agriculture, tourism, and disaster management. By analyzing historical weather data and developing a predictive model, we can gain insights into weather patterns, identify seasonal variations, and assess the impact of climate change.
-![india-weather-forecasting-AI](https://github.com/prpal9122001/Analyzing-Climate-Trends-and-Forecasting-Weather-in-India/assets/72788936/4f2dce13-8a21-4bd8-bbd8-b33ccd23cc45)
+
+![Screen Shot 2023-08-02 at 12 42 08 AM](https://github.com/prpal9122001/Analyzing-Climate-Trends-and-Forecasting-Weather-in-India/assets/72788936/fc417773-a4e2-4864-8da6-f74716aaced3)
 
 #Methodology:
 
