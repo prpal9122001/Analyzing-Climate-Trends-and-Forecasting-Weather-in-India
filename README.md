@@ -35,13 +35,17 @@ Temperature Clusters: Despite four distinct seasons in India, we observed three 
 
 ## Machine learning algorithms used
 
-**1.K-Means Clustering:**  K-Means is an unsupervised machine learning algorithm used for clustering data. Its main objective is to divide data into 'k' distinct clusters, where 'k' is a user-defined number. The algorithm assigns each data point to the cluster whose centroid is closest to it. K-Means is widely used in data analysis and pattern recognition tasks.
+**1.K-Means Clustering**  
+
+K-Means is an unsupervised machine learning algorithm used for clustering data. Its main objective is to divide data into 'k' distinct clusters, where 'k' is a user-defined number. The algorithm assigns each data point to the cluster whose centroid is closest to it. K-Means is widely used in data analysis and pattern recognition tasks.
 
 In this project, K-Means was used for the following purposes:
 
 Seasonal Clustering: The temperature data was grouped into seasons (Winter, Summer, Monsoon, and Autumn) based on the mean temperatures of specific months. K-Means clustering helped identify distinct temperature patterns that represent each season, providing insights into the temperature variations experienced throughout the year in India.
 
-**2.Decision Tree:** A Decision Tree is a supervised learning algorithm used for regression and classification tasks. It creates a tree-like model where each internal node represents a feature, each branch represents a decision based on that feature, and each leaf node represents the outcome or target variable. Decision Trees are intuitive, easy to interpret, and can handle both categorical and numerical data.
+**2.Decision Tree** 
+
+A Decision Tree is a supervised learning algorithm used for regression and classification tasks. It creates a tree-like model where each internal node represents a feature, each branch represents a decision based on that feature, and each leaf node represents the outcome or target variable. Decision Trees are intuitive, easy to interpret, and can handle both categorical and numerical data.
 
 In this project, Decision Tree was used for the following purposes:
 
